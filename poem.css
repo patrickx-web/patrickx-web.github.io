@@ -1,0 +1,41 @@
+/*selector {
+	property: value;
+}*/
+
+body{
+	background-image: url(backgroundimage.jpg.jpg);
+	 background-size:contain;
+}
+ul {
+	color: red
+}
+ol{color: green}
+
+form {color: yellow}
+option {color: blue}
+
+li{color: red }
+h1{text-align: center;border: 6px solid red;
+cursor: pointer;}
+
+a{color: white}
+
+h3{color: red;
+font-style: italic;
+font-weight: bolder;
+border: 8px dashed purple;
+line-height: 40px }
+
+.boxmodel{
+	border: 5px dashed green;
+	display: inline-block;
+	padding: 15px;
+	width: 50px;
+	height: 60px;
+	margin: 30px
+
+}
+
+span{
+	font-size: 60px
+}
