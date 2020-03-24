@@ -1,0 +1,19 @@
+body{
+	background-image: url(undraw.png);
+}
+h2{
+	text-align: center;
+}
+head{
+	text-decoration: bold;
+	text-decoration-style: italic;
+	text-shadow: 100px
+}
+
+a {
+	color: white;
+	background-clip: border-box;
+	background-color: blue;
+	background-attachment: scroll;
+	background-image: -webkit-linear-gradient
+}
